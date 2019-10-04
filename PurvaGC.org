@@ -1,0 +1,71 @@
+#+TITLE: Green Card Planner
+#+AUTHOR: Alok Arya (buntyalok06@gmail.com)
+#+CO-AUTHOR: Purva Gupta (purva4385@gmail.com)
+#+TODO: TODO IN-PROGRESS REVIEW | DONE
+#+TAGS:
+#+STARTUP: indent
+#+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
+
+* EB2 - NIW
+  
+** TODO Degree evaluation for PhD
+
+   Agencies to choose from:
+   - A2Z Evaluations, LLC
+     Fee - $195
+     [[https://www.a2zeval.com/category_s/23.htm][Link]]
+     Requirements - Mail original official transcript and degree certificate 
+
+   - Academic Evaluation Services, Inc.
+   - Educational Credential Evaluators, Inc.
+   - Educational Perspectives, nfp
+   - Educational Records Evaluation Service, Inc.
+   - Evaluation Service, Inc.
+   - Foreign Academic Credential Service, Inc.
+   - Foundation for International Services, Inc.
+   - Global Credential Evaluators, Inc.
+   - Global Services Associates, Inc.
+   - International Academic Credential Evaluators, Inc.
+   - International Consultants of Delaware, Inc.
+   - International Education Evaluations, Inc.
+   - International Education Research Foundation, Inc.
+   - Center for Applied Research, Evaluation and Education, Inc.
+   - Josef Silny and Associates, Inc. International Education Consultants
+   - SpanTran: The Evaluation Company
+   - Transcript Research
+   - World Education Services, Inc.
+     Fee - $145
+     Requirements
+     - Degree certificate(Final or Provisional)
+       Send clear and legible copy of this document to WES. Do not send
+       your original document.
+     - Mark Sheets/Statment of Marks
+       University to send document directly in a sealed envelope that is
+       signed or stamped across the back flap by the appropriate officer at
+       the institution that coducted the examination.
+
+** Degree 
+
+** Official academic record
+   One of the 2
+   1. Official Transcript
+   2. Official letter from the Registrar stating
+      - Degree earned.
+      - your dates of attendance.
+      - your area of concentration of study.
+      - date you received your degree.
+
+
+
+
+
+* Knowledge Base
+
+  Q) Are there any travel restrictions while on J-1 visa after filing I-140?
+
+  A) It is generally advised that are in a non-immigrant visa status
+     that does not allow immigrant intent (such as your J-1 visa) against
+     traveling outside of the U.S. after filing the I-140 in order to avoid
+     potential issues with re-entry into the U.S. since, by filing the I-140,
+     you will be demonstrating your intent to immigrate to some extent.
+
