@@ -9,40 +9,52 @@
 * EB2 - NIW
   
 ** TODO Degree evaluation for PhD
+Need to get a document by document evaluation done.
 
-   Agencies to choose from:
-   - A2Z Evaluations, LLC
-     Fee - $195
-     [[https://www.a2zeval.com/category_s/23.htm][Link]]
-     Requirements - Mail original official transcript and degree certificate 
+*** Agencies (Recommended by Lawyers)
+All these agencies are part of [[https://www.naces.org/members][NACES]]
+- A2Z Evaluations, LLC
+  - Fee - $195
+  - [[https://www.a2zeval.com/category_s/23.htm][Link]]
+  - Requirements - Mail original official transcript and degree certificate 
+- World Education Services, Inc.
+  Fee - $145
+  Requirements
+  - Degree certificate(Final or Provisional)
+    Send clear and legible copy of this document to WES. Do not send
+    your original document.
+  - Mark Sheets/Statment of Marks
+    University to send document directly in a sealed envelope that is
+    signed or stamped across the back flap by the appropriate officer at
+   the institution that coducted the examination.
+- Academic Evaluation Services, Inc.
+- Educational Credential Evaluators, Inc.
+- Educational Perspectives, nfp
+- Educational Records Evaluation Service, Inc.
+- Evaluation Service, Inc.
+- Foreign Academic Credential Service, Inc.
+- Foundation for International Services, Inc.
+- Global Credential Evaluators, Inc.
+- Global Services Associates, Inc.
+- International Academic Credential Evaluators, Inc.
+- International Consultants of Delaware, Inc.
+- International Education Evaluations, Inc.
+- International Education Research Foundation, Inc.
+- Center for Applied Research, Evaluation and Education, Inc.
+- Josef Silny and Associates, Inc. International Education Consultants
+- SpanTran: The Evaluation Company
+- Transcript Research
 
-   - Academic Evaluation Services, Inc.
-   - Educational Credential Evaluators, Inc.
-   - Educational Perspectives, nfp
-   - Educational Records Evaluation Service, Inc.
-   - Evaluation Service, Inc.
-   - Foreign Academic Credential Service, Inc.
-   - Foundation for International Services, Inc.
-   - Global Credential Evaluators, Inc.
-   - Global Services Associates, Inc.
-   - International Academic Credential Evaluators, Inc.
-   - International Consultants of Delaware, Inc.
-   - International Education Evaluations, Inc.
-   - International Education Research Foundation, Inc.
-   - Center for Applied Research, Evaluation and Education, Inc.
-   - Josef Silny and Associates, Inc. International Education Consultants
-   - SpanTran: The Evaluation Company
-   - Transcript Research
-   - World Education Services, Inc.
-     Fee - $145
-     Requirements
-     - Degree certificate(Final or Provisional)
-       Send clear and legible copy of this document to WES. Do not send
-       your original document.
-     - Mark Sheets/Statment of Marks
-       University to send document directly in a sealed envelope that is
-       signed or stamped across the back flap by the appropriate officer at
-       the institution that coducted the examination.
+*** Agencies (Recommended others)
+- American evaluation & Translation service Inc.
+  - [[http://www.aetsinternational.com][Link]]
+  - Service: Educational Evaluation
+  - Requirements: Copies of academic documents like diploma(degree
+    certificates) and/or academic transcripts(indicating graduation date and
+    major), Completed application form
+  - Fee: $100 (10 days service)
+  - Advantage: They don't need the institution or us to send 'official' copies.
+
 
 ** Degree 
 
@@ -61,11 +73,12 @@
 
 * Knowledge Base
 
-  Q) Are there any travel restrictions while on J-1 visa after filing I-140?
+Q) Are there any travel restrictions while on J-1 visa after filing I-140?
 
-  A) It is generally advised that are in a non-immigrant visa status
-     that does not allow immigrant intent (such as your J-1 visa) against
-     traveling outside of the U.S. after filing the I-140 in order to avoid
-     potential issues with re-entry into the U.S. since, by filing the I-140,
-     you will be demonstrating your intent to immigrate to some extent.
+A) It is generally advised that are in a non-immigrant visa status
+   that does not allow immigrant intent (such as your J-1 visa) against
+   traveling outside of the U.S. after filing the I-140 in order to avoid
+   potential issues with re-entry into the U.S. since, by filing the I-140,
+   you will be demonstrating your intent to immigrate to some extent.
+
 
