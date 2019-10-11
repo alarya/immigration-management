@@ -3,7 +3,7 @@
 #+CO-AUTHOR: Purva Gupta (purva4385@gmail.com)
 #+TODO: TODO IN-PROGRESS REVIEW | DONE
 #+TAGS:
-#+STARTUP: indent
+#+STARTUP: indent content
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 
 * EB2 - NIW
@@ -59,17 +59,13 @@ All these agencies are part of [[https://www.naces.org/members][NACES]]
 ** Degree 
 
 ** Official academic record
-   One of the 2
-   1. Official Transcript
-   2. Official letter from the Registrar stating
-      - Degree earned.
-      - your dates of attendance.
-      - your area of concentration of study.
-      - date you received your degree.
-
-
-
-
+One of the 2
+1. Official Transcript
+2. Official letter from the Registrar stating
+   - Degree earned.
+   - your dates of attendance.
+   - your area of concentration of study.
+   - date you received your degree.
 
 * Knowledge Base
 
