@@ -7,7 +7,37 @@
 #+SETUPFILE: https://fniessen.github.io/org-html-themes/setup/theme-bigblow.setup
 
 * EB2 - NIW
-  
+
+** Steps
+
+*** DONE Upload your CV and make a Google scholar profile.
+
+*** IN-PROGRESS Upload your summary of contributions; revise as needed.
+
+*** TODO Upload a list of potential reccomenders; contact & confirm.
+
+*** TODO Receive draft of reference letters.
+
+*** TODO Review/review the letter drafts.
+
+*** TODO send the letters to the recommenders to be signed.
+
+*** TODO Upload all the signed letters.
+
+*** TODO Lawyers will draft the petition letter.
+
+*** TODO Fillout the questionaire tab or forms.
+
+*** TODO Review/revise and finalize the petition letter. 
+
+*** TODO Print out and prepare supporting documents. 
+
+*** TODO Mail lawyers the supporting documents and remaining fee(s).
+
+*** TODO Lawyers will organize our exhbits and file the case.
+
+*** TODO Receive receipt notice within 7-30 days.
+
 ** TODO Degree evaluation for PhD
 Need to get a document by document evaluation done.
 
