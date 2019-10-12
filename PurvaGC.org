@@ -13,6 +13,14 @@
 *** DONE Upload your CV and make a Google scholar profile.
 
 *** IN-PROGRESS Upload your summary of contributions; revise as needed.
+- Include your 3-6 most significant contributions. Each contribution should
+  be an area of research and can be comprised of several papers/patents,
+  etc.
+- For each contribution provide 2+ paragraphs of technical summary, 2+
+  paragraphs of plain language summary, 1+ paragraph explaining the
+  significance of the contribution, and 1+ paragraph describing how the
+  contribution is influential and has been implemented by others, providing
+  specific examples.
 
 *** TODO Upload a list of potential reccomenders; contact & confirm.
 
