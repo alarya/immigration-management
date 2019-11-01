@@ -46,8 +46,10 @@
 
 *** TODO Receive receipt notice within 7-30 days.
 
-** TODO Degree evaluation for PhD
-Need to get a document by document evaluation done.
+** DONE Degree evaluation for PhD
+Need to get a document by document evaluation done. Evaluation has been done
+through "American evaluation & Translation service Inc." and sent to
+attornet. Attorney has approved the evaluation.
 
 *** Agencies (Recommended by Lawyers)
 All these agencies are part of [[https://www.naces.org/members][NACES]]
