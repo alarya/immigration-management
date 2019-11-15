@@ -12,7 +12,8 @@
 
 *** DONE Upload your CV and make a Google scholar profile.
 
-*** IN-PROGRESS Upload your summary of contributions; revise as needed.
+*** DONE Upload your summary of contributions; revise as needed.
+CLOSED: [2019-11-14 Thu 20:48]
 - Include your 3-6 most significant contributions. Each contribution should
   be an area of research and can be comprised of several papers/patents,
   etc.
