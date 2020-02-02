@@ -23,11 +23,13 @@ CLOSED: [2019-11-14 Thu 20:48]
   contribution is influential and has been implemented by others, providing
   specific examples.
 
-*** TODO Upload a list of potential reccomenders; contact & confirm.
+*** DONE Upload a list of potential reccomenders; contact & confirm.
+CLOSED: [2020-02-01 Sat 16:04]
 
-*** TODO Receive draft of reference letters.
+*** DONE Receive draft of reference letters.
+CLOSED: [2020-02-01 Sat 16:04]
 
-*** TODO Review/review the letter drafts.
+*** IN-PROGRESS Review/review the letter drafts.
 
 *** TODO send the letters to the recommenders to be signed.
 
